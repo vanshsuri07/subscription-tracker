@@ -1,4 +1,4 @@
-🤖 Introduction
+#🤖 Introduction
 
 
 Build a production-ready Subscription Management System API that handles real users, real money, and real business logic.
@@ -8,14 +8,17 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 50k+ members. It's a place where people help each other out.
 
 
-⚙️ Tech Stack
+
+#⚙️ Tech Stack
 
 
 Node.js
 Express.js
 MongoDB
 
-🔋 Features
+
+
+#🔋 Features
 
 
 👉 Advanced Rate Limiting and Bot Protection: with Arcjet that helps you secure the whole app.
@@ -32,7 +35,9 @@ MongoDB
 
 and many more, including code architecture and reusability
 
-Prerequisites
+
+
+#Prerequisites
 
 
 Make sure you have the following installed on your machine:
@@ -40,6 +45,8 @@ Make sure you have the following installed on your machine:
 Git
 Node.js
 npm (Node Package Manager)
+
+
 
 Cloning the Repository
 
