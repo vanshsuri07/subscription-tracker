@@ -1,4 +1,4 @@
-#🤖 Introduction
+# 🤖 Introduction
 
 
 Build a production-ready Subscription Management System API that handles real users, real money, and real business logic.
@@ -9,7 +9,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 
-#⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 
 Node.js
@@ -18,7 +18,8 @@ MongoDB
 
 
 
-#🔋 Features
+
+# 🔋 Features
 
 
 👉 Advanced Rate Limiting and Bot Protection: with Arcjet that helps you secure the whole app.
@@ -37,7 +38,8 @@ and many more, including code architecture and reusability
 
 
 
-#Prerequisites
+
+# Prerequisites
 
 
 Make sure you have the following installed on your machine:
